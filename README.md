@@ -12,7 +12,7 @@ Modeus bot is a bot that takes scheduling data from the modeus site and provides
 ## 1. Cloning a repository
 `https://github.com/Lerokkkk/Modeus_bot.git`
 
-`CD rate my music`
+`cd Modeus_bot`
 ## 2. Create Virtual Environment:
 `python -m venv venv`
 ## 3. Activate Virtual Environment:
