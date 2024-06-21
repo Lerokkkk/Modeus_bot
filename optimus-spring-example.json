@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimum-spring-12345",
+  "private_key_id": "oqwe01293ods-10sa0113",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nEXam2le\n-----END PRIVATE KEY-----\n",
+  "client_email": "example@optimum-spring-12345.iam.gserviceaccount.com",
+  "client_id": "49210851240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "ya na ochke tobehonest",
+  "client_x509_cert_url": "ya na ochke.com",
+  "universe_domain": "googleapis.com"
+}

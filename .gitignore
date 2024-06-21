@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.idea
+users_data/*
+!users_data/.gitkeep
+.env
+optimum-spring-405211-066ddb81ace7.json
