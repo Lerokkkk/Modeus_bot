@@ -19,10 +19,10 @@ Modeus bot is a bot that takes scheduling data from the modeus site and provides
 `venv\Scripts\activate`
 ## 4.Install Dependcies:
 `pip install -r requirements.txt`
-## 5. Run Migrations:
-`alembic upgrade head`
-## 6. Add .env and optimus-spring files
+## 5. Add .env and optimus-spring files
 check .env-example and optimus-spring-example files
+## 6. Run Migrations:
+`alembic upgrade head`
 ## 7. Run bot:
 `python bot.py`
 
